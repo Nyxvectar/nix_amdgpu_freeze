@@ -3,8 +3,13 @@ The repo is a attachment of this [post](https://discourse.nixos.org/t/randomly-f
 
 ---
 
+Jun 09, 2025
+An [issue](https://gitlab.freedesktop.org/drm/amd/-/issues/4308) was commited to AMD.
+
+---
+
 Jun 10, 2025
-A new log is added in [there](https://github.com/Nyxvectar/nix_amdgpu_freeze/blob/main/driverLoad.log)
+A [new log](https://github.com/Nyxvectar/nix_amdgpu_freeze/blob/main/driverLoad.log) was added.
 
 ---
 
