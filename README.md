@@ -3,6 +3,10 @@ The repo is a attachment of this [post](https://discourse.nixos.org/t/randomly-f
 
 ---
 
+A post by [another nix usr](https://discourse.nixos.org/u/phaeseeKe5Ee/summary) described a [similar situation](https://discourse.nixos.org/t/failed-to-autologin-to-dwm-xserver-when-upgrade-from-24-11-to-25-05/65344) to mine.
+
+---
+
 Jun 09, 2025
 An [issue](https://gitlab.freedesktop.org/drm/amd/-/issues/4308) was commited to AMD.
 
@@ -20,6 +24,10 @@ A [new crashing report](https://gitlab.freedesktop.org/drm/amd/-/issues/4308#not
 
 Jun 10, 2025
 From a primary stage the [driver's problem is solved](https://gitlab.freedesktop.org/drm/amd/-/issues/4308#note_2951589).
+
+---
+
+Jun 10, 2025 [Temporary Solution](https://discourse.nixos.org/t/randomly-flickering-freezing-darken-on-amd-gpu/65416/3?u=nyxvectar)
 
 ---
 
