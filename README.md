@@ -18,6 +18,11 @@ A [new crashing report](https://gitlab.freedesktop.org/drm/amd/-/issues/4308#not
 
 ---
 
+Jun 10, 2025
+From a primary stage the [driver's problem is solved](https://gitlab.freedesktop.org/drm/amd/-/issues/4308#note_2951589).
+
+---
+
 *I'm experiencing persistent display issues with my AMD Radeon RX 6500 XT (4GB GDDR6) and other GPUs on NixOS 25.05 and would appreciate your expertise. Here are the technical details:*
 
 ### Hardware & Validation
