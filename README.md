@@ -3,6 +3,11 @@ The repo is a attachment of this [post](https://discourse.nixos.org/t/randomly-f
 
 ---
 
+Jun 10, 2025
+A new log is added in [there](https://github.com/Nyxvectar/nix_amdgpu_freeze/blob/main/driverLoad.log)
+
+---
+
 *I'm experiencing persistent display issues with my AMD Radeon RX 6500 XT (4GB GDDR6) and other GPUs on NixOS 25.05 and would appreciate your expertise. Here are the technical details:*
 
 ### Hardware & Validation
